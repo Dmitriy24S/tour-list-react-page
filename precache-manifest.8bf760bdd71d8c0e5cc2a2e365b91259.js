@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55d9b5d0b29d09579bf869f4c5f40407",
+    "revision": "5ee9f033051ac40f9a9cd1132042e614",
     "url": "/tour-list-react-page/index.html"
   },
   {
-    "revision": "b767e20a637c9665cd48",
+    "revision": "9edf93ecd470514c3a95",
     "url": "/tour-list-react-page/static/css/main.84a6f634.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tour-list-react-page/static/js/2.aed9be0b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b767e20a637c9665cd48",
-    "url": "/tour-list-react-page/static/js/main.327a02e1.chunk.js"
+    "revision": "9edf93ecd470514c3a95",
+    "url": "/tour-list-react-page/static/js/main.8084da4b.chunk.js"
   },
   {
     "revision": "fdc86ee4893cb967d9f7",
