@@ -9,7 +9,7 @@ const Tour = ({ tour, removeTour }) => {
       <footer>
         <div className="tour-info">
           <h4>{tour.name}</h4>
-          <h4 className="tour-price">{tour.price}</h4>
+          <h4 className="tour-price">${tour.price}</h4>
         </div>
         <p>
           {isOpen ? tour.info : `${tour.info.substring(0, 200)}...`}
