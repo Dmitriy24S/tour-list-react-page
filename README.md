@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Tour List React Page
+
+Tour List React Page. Made with Coding Addict's API, React and CSS.
+
+[Live Demo](https://dmitriy24s.github.io/tour-list-react-page/) 👈
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
