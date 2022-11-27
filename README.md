@@ -1,5 +1,7 @@
 # Tour List React Page
 
+![Design preview for Tour List Page](./design-preview/design-preview.png)
+
 Tour List React Page. Made with Coding Addict's API, React and CSS.
 
 [Live Demo](https://dmitriy24s.github.io/tour-list-react-page/) 👈
